@@ -1,5 +1,5 @@
 .colNoPadding{
-    /*padding: 0;*/
+    padding: 0;
 }
 
 .cardMargin{
@@ -20,7 +20,7 @@
 }
 
 .masonry{
-    background-color: aquamarine;
+   /* background-color: aquamarine;*/
 }
 
 .sideBox{
